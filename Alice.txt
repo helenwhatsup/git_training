@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Hi! i!!!!!!!!!1
 !!!!!!
 change stuffI
 'm Alice. I'm a file someone added to this repository a while ago.
+=======
+eeeee
+
+
+alice
+alice 
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+>>>>>>> change_alice
